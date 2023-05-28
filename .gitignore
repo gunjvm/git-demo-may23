@@ -1,3 +1,5 @@
 *.exe
 *.doc
 *.ppt
+*.war
+*.jar
